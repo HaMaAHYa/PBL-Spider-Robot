@@ -1,6 +1,6 @@
 # 🕷️ Spider Root Stair Climbing
 
-This project features the core Arduino code for an 8-servo, four-legged robot designed to autonomously navigate a flat floor and detect and climb stairs using an ultrasonic sensor.
+This project features the core Arduino code for four-legged robot designed to autonomously navigate a flat floor and detect and climb stairs using an ultrasonic sensor.
 
 ---
 
